@@ -1,0 +1,10 @@
+
+	Booléens
+
+On définit un type bool qui pour faux a la valeur 0 et vrai prend la valeur 1 inplicite ici.
+Les ifdef servent à ne pas faire include plusieurs fois du même fichier.
+
+	Entiers Naturels
+
+//Question 2
+Parce qu'on a besoin de l'adresse du prédécesseur, d'où l'utilité d'un pointeur, donc on a une chaine de pointeur d'où le fati que nat est un pointeur.
